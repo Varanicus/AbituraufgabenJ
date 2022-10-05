@@ -21,7 +21,8 @@ public void enqueue(T x) {
 }
 
 
-public T dequeue() {
+public T dequeue() {  
+
 	T x=dieListe.get(0);
 	dieListe.entferneBei(0);
 	return x;	
