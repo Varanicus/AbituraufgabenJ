@@ -1,4 +1,4 @@
-package aufgabe1;
+package aufgabe2;
 
 public class fibonacci {
 	public static void main(String[] args) {

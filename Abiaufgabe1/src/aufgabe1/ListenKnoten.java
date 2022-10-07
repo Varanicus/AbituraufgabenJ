@@ -31,6 +31,9 @@ public T dequeue() {
 //C)
 /*
  
+ 
+ 
+ 
 public void anhaengen(T val){
     
     if(anhaengen == null) {                                  //für denn fall das die Liste leer ist
